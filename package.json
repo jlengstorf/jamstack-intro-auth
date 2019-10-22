@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
   "license": "MIT",
+  "scripts": {
+    "build": "gatsby build"
+  },
   "dependencies": {
     "@reach/dialog": "^0.3.0",
     "@reach/tabs": "^0.3.0",
